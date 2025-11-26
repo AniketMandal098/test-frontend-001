@@ -1,5 +1,5 @@
 export const environment = {
     production: false,
-    apiUrl: 'http://localhost:3000'
+    apiUrl: 'https://test-backend-webapp-001-bwdpb5bxhkgedcg6.eastasia-01.azurewebsites.net/api'
   };
   
